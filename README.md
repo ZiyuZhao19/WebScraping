@@ -2,7 +2,7 @@
 ##### Source Code
 ###### *homeword2.py
 ###### *homework2_extra.py
-##### Output Data Set:
+##### Output Dataset:
 ###### *p2_5.csv
 ###### *extra_infoboxes.csv
 ##### Written Report:
