@@ -1,10 +1,9 @@
-#### mssp607_homework2
-##### Source Code
-###### *homeword2.py
-###### *homework2_extra.py
-##### Output Dataset:
-###### *p2_5.csv
-###### *extra_infoboxes.csv
-##### Written Report:
-###### *hw2.docx
-###### *hw2_extra.docx
+# mssp607_homework2
+* Source Code
+[homework 2](/homeword2.py)
+
+[homeword 2 extra credit](/homework2_extra.py)
+* Output Dataset:
+[homework 2 part2-5](/p2_5.csv)
+
+[homework 2 extra](extra_infoboxes.csv)
