@@ -1,7 +1,7 @@
 # mssp607_homework2
 * Source Code
 
-[homework 2](/homeword2.py)
+[homework 2](/homework2.py)
 
 [homeword 2 extra credit](/homework2_extra.py)
 
